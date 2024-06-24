@@ -16,7 +16,7 @@
     <properties>
         <!-- - - - - - Encoding - - - - - -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <!-- - - - - - Java - - - - - -->
+        <!-- - - - - - Java - - - - - - -->
         <java.version>17</java.version>
         <!-- - - - - - Tests - - - - - -->
         <junit.jupiter.version>5.9.3</junit.jupiter.version>
